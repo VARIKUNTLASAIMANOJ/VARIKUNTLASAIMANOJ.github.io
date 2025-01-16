@@ -82,7 +82,7 @@
 - **Model Performance**: Achieved high accuracy across multiple classification algorithms.
 - **Visualization**: Illustrated decision boundaries and data distributions to enhance understanding.
 
-![Sample Visualization](path/to/visualization.png)
+![Sample Visualization]((https://github.com/VARIKUNTLASAIMANOJ/VARIKUNTLASAIMANOJ.github.io/tree/main))
 
 ---
 
