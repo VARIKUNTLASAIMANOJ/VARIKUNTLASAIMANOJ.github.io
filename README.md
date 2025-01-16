@@ -103,7 +103,7 @@
 - **Manjunath Goud Ediga** (2211CS020145)
 - **Uma Mallesh Goud Ediga** (2211CS020146)
 - **Gade Vignesh** (2211CS020169)
-- **Sai Manoj Varikutla** (2211CS020527)
+- **Sai Manoj Varikuntla** (2211CS020527)
 
 Under the guidance of **G. Balaiah**, Assistant Professor, Department of CSE (AI & ML).
 
