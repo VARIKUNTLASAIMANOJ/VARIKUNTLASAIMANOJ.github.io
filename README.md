@@ -99,11 +99,12 @@
 
 ## 👨‍💻 Contributors
 
-- **Bhuvansai Chilamkurthi** (2211CS020098)
-- **Manjunath Goud Ediga** (2211CS020145)
-- **Uma Mallesh Goud Ediga** (2211CS020146)
-- **Gade Vignesh** (2211CS020169)
-- **Sai Manoj Varikuntla** (2211CS020527)
+- **Varikuntla Sai Manoj** 
+- **Bhuvansai Chilamkurthi** 
+- **Manjunath Goud Ediga** 
+- **Uma Mallesh Goud Ediga** 
+- **Gade Vignesh**
+
 
 Under the guidance of **G. Balaiah**, Assistant Professor, Department of CSE (AI & ML).
 
